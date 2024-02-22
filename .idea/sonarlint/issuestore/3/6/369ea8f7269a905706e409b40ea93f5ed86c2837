@@ -1,0 +1,117 @@
+
+A
+java:S2925&"$Remove this use of "Thread.sleep()".(öÍËè8€Œ²Ú1
+A
+java:S2925("$Remove this use of "Thread.sleep()".(öÍËè8‚Œ²Ú1
+A
+java:S2925*"$Remove this use of "Thread.sleep()".(¬Æ„°8„Œ²Ú1
+A
+java:S2925,"$Remove this use of "Thread.sleep()".(öÍËè8…Œ²Ú1
+A
+java:S2925."$Remove this use of "Thread.sleep()".(öÍËè8‡Œ²Ú1
+A
+java:S29253"$Remove this use of "Thread.sleep()".(¯ú™ú8‰Œ²Ú1
+A
+java:S29256"$Remove this use of "Thread.sleep()".(¯ú™ú8Œ²Ú1
+A
+java:S29259"$Remove this use of "Thread.sleep()".(¯ú™ú8Œ²Ú1
+A
+java:S2925<"$Remove this use of "Thread.sleep()".(Úõôñ8Œ²Ú1
+A
+java:S2925A"$Remove this use of "Thread.sleep()".(¯ú™ú8’Œ²Ú1
+A
+java:S2925E"$Remove this use of "Thread.sleep()".(Úõôñ8’Œ²Ú1
+A
+java:S2925N"$Remove this use of "Thread.sleep()".(¬Æ„°8“Œ²Ú1
+A
+java:S2925S"$Remove this use of "Thread.sleep()".(öÍËè8“Œ²Ú1
+A
+java:S2925X"$Remove this use of "Thread.sleep()".(¯ú™ú8”Œ²Ú1
+A
+java:S2925["$Remove this use of "Thread.sleep()".(¯ú™ú8”Œ²Ú1
+A
+java:S2925^"$Remove this use of "Thread.sleep()".(¯ú™ú8•Œ²Ú1
+A
+java:S2925a"$Remove this use of "Thread.sleep()".(¯ú™ú8•Œ²Ú1
+A
+java:S2925o"$Remove this use of "Thread.sleep()".(öÍËè8•Œ²Ú1
+A
+java:S2925t"$Remove this use of "Thread.sleep()".(¯ú™ú8•Œ²Ú1
+A
+java:S2925y"$Remove this use of "Thread.sleep()".(¬Æ„°8–Œ²Ú1
+A
+java:S2925}"$Remove this use of "Thread.sleep()".(öÍËè8–Œ²Ú1
+B
+java:S2925€"$Remove this use of "Thread.sleep()".(™Ïï8–Œ²Ú1
+B
+java:S2925†"$Remove this use of "Thread.sleep()".(öÍËè8—Œ²Ú1
+B
+java:S2925‰"$Remove this use of "Thread.sleep()".(¯ú™ú8—Œ²Ú1
+B
+java:S2925Œ"$Remove this use of "Thread.sleep()".(¯ú™ú8˜Œ²Ú1
+B
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú8˜Œ²Ú1
+B
+java:S2925—"$Remove this use of "Thread.sleep()".(¯ú™ú8˜Œ²Ú1
+B
+java:S2925 "$Remove this use of "Thread.sleep()".(öÍËè8™Œ²Ú1
+B
+java:S2925¥"$Remove this use of "Thread.sleep()".(¯ú™ú8™Œ²Ú1
+B
+java:S2925ª"$Remove this use of "Thread.sleep()".(¬Æ„°8™Œ²Ú1
+B
+java:S2925®"$Remove this use of "Thread.sleep()".(öÍËè8™Œ²Ú1
+B
+java:S2925±"$Remove this use of "Thread.sleep()".(™Ïï8šŒ²Ú1
+B
+java:S2925¶"$Remove this use of "Thread.sleep()".(öÍËè8œŒ²Ú1
+B
+java:S2925¹"$Remove this use of "Thread.sleep()".(¯ú™ú8ŸŒ²Ú1
+B
+java:S2925½"$Remove this use of "Thread.sleep()".(¯ú™ú8§Œ²Ú1
+B
+java:S2925À"$Remove this use of "Thread.sleep()".(¯ú™ú8ªŒ²Ú1
+B
+java:S2925Í"$Remove this use of "Thread.sleep()".(¯ú™ú8ªŒ²Ú1
+B
+java:S2925Ñ"$Remove this use of "Thread.sleep()".(öÍËè8«Œ²Ú1
+B
+java:S2925Ö"$Remove this use of "Thread.sleep()".(¯ú™ú8«Œ²Ú1
+B
+java:S2925Û"$Remove this use of "Thread.sleep()".(¬Æ„°8«Œ²Ú1
+B
+java:S2925ß"$Remove this use of "Thread.sleep()".(öÍËè8«Œ²Ú1
+B
+java:S2925â"$Remove this use of "Thread.sleep()".(™Ïï8«Œ²Ú1
+B
+java:S2925ç"$Remove this use of "Thread.sleep()".(¯ú™ú8¬Œ²Ú1
+B
+java:S2925ê"$Remove this use of "Thread.sleep()".(öÍËè8¬Œ²Ú1
+B
+java:S2925í"$Remove this use of "Thread.sleep()".(¯ú™ú8¬Œ²Ú1
+B
+java:S2925ï"$Remove this use of "Thread.sleep()".(¯ú™ú8¬Œ²Ú1
+B
+java:S2925ò"$Remove this use of "Thread.sleep()".(¯ú™ú8¬Œ²Ú1
+B
+java:S2925õ"$Remove this use of "Thread.sleep()".(öÍËè8­Œ²Ú1
+B
+java:S2925ø"$Remove this use of "Thread.sleep()".(¬Æ„°8­Œ²Ú1
+B
+java:S2925ı"$Remove this use of "Thread.sleep()".(¯ú™ú8®Œ²Ú1
+B
+java:S2925€"$Remove this use of "Thread.sleep()".(¯ú™ú8®Œ²Ú1
+B
+java:S2925ƒ"$Remove this use of "Thread.sleep()".(öÍËè8®Œ²Ú1
+B
+java:S2925ˆ"$Remove this use of "Thread.sleep()".(¯ú™ú8¸Œ²Ú1
+B
+java:S2925‹"$Remove this use of "Thread.sleep()".(¯ú™ú8¹Œ²Ú1
+B
+java:S2925"$Remove this use of "Thread.sleep()".(öÍËè8¹Œ²Ú1
+B
+java:S2925"$Remove this use of "Thread.sleep()".(öÍËè8¹Œ²Ú1
+B
+java:S2925“"$Remove this use of "Thread.sleep()".(öÍËè8¹Œ²Ú1
+B
+java:S2925›"$Remove this use of "Thread.sleep()".(öÍËè8ºŒ²Ú1
